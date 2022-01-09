@@ -1,33 +1,19 @@
 # Construindo Encurtador de URL
 
+![image](https://user-images.githubusercontent.com/10172471/148669032-078fc3dc-3358-4da3-8497-d301ea1e6707.png)
 
 ## Sobre
 
 ### Este projeto foi desenvolvido com base nos conhecimentos adquiridos nos Bootcamps e cursos da Digital Innovation One.
 
-A proposta inicial do projeto, era uma pagina Fake do Netflix, feita em HTML, CSS e Javascript.
-Após a implementação e entrega do projeto
-Foi realizado um refactory e melhoria do projeto, migrando o mesmo para um modelo de arquitetura React
-Com a utilização de dados vindos de uma API Externa do IMDB
-A qual foi consumida com sucesso para trazer de forma dinamica todas informações e imagens apresentadas no projeto.
+A proposta do projeto, é de desenvolver uma API para realizar o Encurtamento de endereços URLs passadas para a mesma.
+Onde a API recebe um endereço URL passado, e retorna um endereço encurtado para acesso ao endereço original passado.
 
-- [x] Baseado em Arquitetura React
-- [x] Integração com API IMDB utilizando Axios
-- [x] Estilização com Styled-Components e Material Design
+Neste projeto foram utilizadas as stacks
 
-## Recriação da interface do Netflix.
-
-![image](https://user-images.githubusercontent.com/10172471/147803095-3aa148c6-1b6c-4230-be13-007b69136ec5.png)
-
+- [x] Nodejs
+- [x] Express
+- [x] Typescript
+- [x] Routes
 
 ### Por Jeferson Ribeiro Gomes = { jrgDev : https://jrgdev.vercel.app/ }
-
-### IMDB = { site: https://developer.imdb.com/ }
-
-### Vercel = { site : https://netflix-clone-react-js-taupe.vercel.app/ }
-
-## Material de Apoio
-
-Este projeto foi desenvolvido com base nos conhecimentos adquiridos nos Bootcamps e cursos da Digital Innovation One.
-E através do tutorial em video Aula de Bonieky Lacerda que voce pode acessar através do link abaixo.
-https://www.youtube.com/watch?v=tBweoUiMsDg&t=728s
